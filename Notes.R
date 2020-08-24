@@ -357,6 +357,4 @@ args(remainder)
 #Anonymous Function
 evaluate(function(x){x[length(x)]}, c(8, 4, 0))
 
-'''
-
-'''
+#Does This Work?
